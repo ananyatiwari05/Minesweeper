@@ -1,3 +1,4 @@
+package minesweeper;
 import java.io.*;
 import java.util.*;
 
